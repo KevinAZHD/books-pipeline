@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Archivos de entorno
+.env
+
+# Datos generados por el pipeline
+docs/
+landing/
+standard/
+
+# Caché de Python
+__pycache__/
