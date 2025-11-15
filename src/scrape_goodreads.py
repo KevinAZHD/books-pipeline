@@ -8,7 +8,7 @@ import os
 # --- CONFIGURACIÓN ---
 # Modifica estos valores para cambiar la búsqueda por defecto
 CONSULTA_DEFAULT = "data science"
-NUM_LIBROS_DEFAULT = 3
+NUM_LIBROS_DEFAULT = 22
 
 # Obtiene una URL con un número específico de reintentos y backoff
 def obtener_url(url, headers, reintentos=3, factor_backoff=0.5, timeout=30):
